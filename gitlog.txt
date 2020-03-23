@@ -1,0 +1,17 @@
+commit e36d3e2cec8e7d47c4a664810072e54aabcccad9
+Author: Spelec <anmarek@gmail.com>
+Date:   Sun Mar 22 22:08:15 2020 -0400
+
+    added gitignore
+
+commit 30d431ff91e94f3e0bdc5cd823999f33f14248ed
+Author: Spelec <anmarek@gmail.com>
+Date:   Sun Mar 22 21:53:33 2020 -0400
+
+    added file1.txt and file2.txt
+
+commit 6a9eaa0efbd9138bec95d8b711e6801099df0dba
+Author: Spelec <anmarek@gmail.com>
+Date:   Sun Mar 22 21:31:21 2020 -0400
+
+    added readme.txt
