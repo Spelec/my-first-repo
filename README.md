@@ -1,52 +1,26 @@
-# This is a large heading
+# Tony Marek
+
+### Geography
+
+I live in the citi of Raleigh, in the state of North Carolina,
+in the United States of America.
+
+### Reading
+
+Two of my favorite books are:
+
+- *Kamasutra* by some unknown Indian
+- *Kamasutra* by some another unknown Indian
 
 
-## This is a smaller heading
+### Food
 
-And as **imagination** bodies forth,
+Las night I dreamt about eating a cake in these places:
 
-The forms of things *unknown*, the poet’s pen,
+1. Hawaii
+2. Monte Carlo
+3. Prague
 
-Turns them to shapes and gives to airy nothing,
+### Contact
 
-A local *habitation* and a **name**.
-
-
-
-- This is
-
-- an unordered
-
-- list
-
-
-
-1. This is
-
-2. an ordered
-
-3. list
-
-
-
-Here is `some code` in the middle of a sentence.
-
-
-
-
-```
-This is
-
-a block
-
-of code
-```
-
-
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2
-/karl-moustache.jpg)
+The best way to get in touch with me is [in bathroom](https://my_home.com/apartment_I).
